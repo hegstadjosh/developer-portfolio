@@ -1,41 +1,59 @@
 export const projectsData = [
     {
         id: 1,
-        name: 'AI Powered Financial App',
-        description: "Me and my team built an AI-powered financial mobile application. I have developed API using Express, Typescript, OpenAI, AWS, and MongoDB. Used OTP via AWS SES, Google, and Facebook for the authentication system. Built AI assistants using OpenAI's latest model and trained using our dataset. Voice messages are converted to text using AWS Transcribe. The app fetches data from Google Sheets and generates a PDF term sheet, sent via AWS SES.",
-        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
-        role: 'Backend Developer',
+        name: 'Investor Goggles',
+        description: "A web and AR glasses platform for investment insights and knowledge management. Built with Flask backend and SQLAlchemy for data management, integrated with Neo4j for knowledge graph capabilities. The AR component runs on Snap Spectacles 24, developed in Typescript. Working directly with Snap Spectacles team for technical refinement and consulting with professional investors at CSIMA conference for user needs.",
+        tools: ['Flask', 'SQLAlchemy', 'Neo4j', 'TypeScript', 'HTML5', 'CSS3', 'JavaScript', 'Lens Studio'],
+        role: 'Lead Developer',
         code: '',
-        demo: '',
+        demo: ''
     },
     {
         id: 2,
-        name: 'Travel Agency App',
-        description: 'I have designed and developed a full-stack web app for 2Expedition, a travel agency in Armenia. I created the UI using NextJS, Typescript, MUI, TailwindCSS, Google Maps, Sun-Editor, and React Slick. The app supports multiple languages and currencies. I developed the API using NestJS, Typescript, MySQL, TypeORM, AWS, and Nodemailer. I deployed the front-end app to AWS Amplify and the back-end app to AWS EC2.',
-        tools: ['NextJS', 'Tailwind CSS', "Google Maps", "NestJS", "TypeScript", "MySQL", "AWS S3", "Sun-Editor", "Gmail Passkey"],
-        role: 'Full Stack Developer',
+        name: 'NASA SUITS AR System',
+        description: `Developed astronaut guidance systems for the HoloLens 2 and Snap Spectacles 24 AR headsets, successfully tested at Johnson Space Center. Currently expanding to support Snap Spectacles platform. Implemented interoperability system with Wichita State's automated rover team. Managing 20+ person team using agile development practices.`,
+        tools: ['Unity', 'C#', 'TypeScript', 'Git'],
+        role: 'Co-Lead',
         code: '',
-        demo: '',
+        demo: ''
     },
     {
         id: 3,
-        name: 'AI Powered Real Estate',
-        description: 'My team built an AI-based real estate app using Replicate API and OpenAI. We used Express, Typescript, OpenAI, Replicate, Stripe, and Mongoose to develop the API. We utilized NextJS, Formik, TailwindCSS, and other npm libraries for the UI. We have trained multiple AI assistants using the latest GPT model and integrated Replicate API for image processing. We added role-based auth, subscription plans, Cron job scheduling, and payment integration with Stripe.',
-        tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'TypeScript', 'MongoDB', 'Azure Blob', 'OpenAI API', 'Replicate AI', 'Cronjob', 'JWT'],
+        name: "Don't Fret!",
+        description: 'Augmented reality guitar training application developed for Snap Spectacles as part of VR/AR course. The app provides real-time guidance for guitar learning, combining AR visualization with music theory.',
+        tools: ['TypeScript', 'JavaScript', 'Lens Studio', 'Snap Spectacles SDK'],
+        role: 'Developer',
         code: '',
-        role: 'Full Stack Developer',
-        demo: '',
+        demo: ''
     },
     {
         id: 4,
-        name: 'Newsroom Management',
-        description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-        tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
-        code: '',
-        demo: '',
+        name: 'Jazz Guitar App',
+        description: 'A comprehensive jazz guitar song and chord database web application. Built as part of Introduction to Databases course, featuring a full-stack implementation with Flask backend and SQL database.',
+        tools: ['Flask', 'SQL', 'HTML', 'CSS', 'JavaScript'],
         role: 'Full Stack Developer',
+        code: '',
+        demo: ''
+    },
+    {
+        id: 5,
+        name: 'Cover Letter Generator',
+        description: 'Multi-agent LLM cover letter generator that uses personal documents for customized content creation. Integrates multiple AI models to create tailored, context-aware cover letters.',
+        tools: ['Python', 'React', 'LLM APIs'],
+        role: 'Developer',
+        code: '',
+        demo: ''
+    },
+    {
+        id: 6,
+        name: 'C Web Server',
+        description: 'Implemented a web server from scratch in C as part of Advanced Programming course. Demonstrates low-level networking and HTTP protocol implementation.',
+        tools: ['C'],
+        role: 'Developer',
+        code: '',
+        demo: ''
     }
-];
+]
 
 
 // Do not remove any property.

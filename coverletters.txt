@@ -1,0 +1,69 @@
+Startup
+I hope to build a startup of my own in the not-too-distant future because I've found that I can endlessly work on things I'm interested in, and, with so many interesting projects I *could* be building, I find myself less and less patient with work that doesn't inspire me. So, I want to work in a startup environment aligned with my interests that will enable me to contribute with some degree of creative freedom, simultaneously exposing me to the ins and outs of building a great product. 
+
+Goaloop inspires me because I have been obsessed with productivity and self-help strategies since middle school— reading Cal Newport, watching YouTube videos about all the productivity tools to *maximize my time*... and I've found that they usually just don't stick. Reflecting on the past five years, I wish I had not optimized toward external goals so much and instead followed my curiosity. I failed over and over again by imposing *someone else's* priorities on myself and neglecting to pursue my true interests— which now, I believe would have been more productive anyhow. Looking back, my over-optimizing, self-doubting CS brain really could have used a tool like Goaloop to show how my personal goals *are* attainable— with the right information. 
+
+
+
+Glenn Neo-T Software Internship: 
+Why do you want this NASA internship? 
+
+I want to explore as many career paths as possible before graduation, and there is no better place than NASA to gain CS experience in the aerospace industry. I’m especially interested in hard engineering fields like aerospace because I can see a clear connection between my efforts and a real-world cause— the NEO-T communications testbed provides an excellent opportunity to tackle complex software challenges that directly impact space missions. Leading Columbia’s SUITS team has opened my eyes to these intersections between tech (a lifelong interest of mine) and human space exploration, which always seemed outside of my sphere. And Columbia Space Initiative has 12 other missions besides SUITS— all tackling interesting, challenging problems. My experiences in CSI have broadened my horizons and inspired me to explore this realm further. So, I think that working with the communications testbed team would equip me with lifelong technical and interpersonal skills and invaluable new perspectives, setting me up for a fulfilling career.
+
+CMT WHY ARE YOU QUALIFIED??? 
+I have always been self-driven in academics and sports. Now, I'm applying that independent drive to software engineering projects: I'm leading a team of software engineers in Agile AR development in SUITS, working on the SWE team for AMLAH (startup), and building an independent AR/AI project with the Standard Partners Fund. I believe these experiences, along with my many personal and class projects, have endowed me with not only technical ability but also exceptional intuition for project management. Moreover, my experience at Hess this summer pushed me to become an excellent communicator, collaborating with and presenting my work to stakeholders all throughout the company. 
+
+Thus, I'm confident that I can pick up new technical skills and be an exceptional member of the CMT team. 
+
+
+
+
+
+
+
+
+
+Dear Hiring Team,
+I am excited about the opportunity to help shape Samsung’s next-generation AI assistant. My background in technical development and agile product management, along with my hands-on experience with emerging technologies, makes me a strong fit for this role.
+Cross-Functional Product Leadership
+Currently, I lead the NASA SUITS Challenge team, coordinating 20+ engineers and designers in agile sprints. Alongside our astronaut guidance program on two AR headsets, we are developing an interoperability system with the automated rover team at Wichita State. This role has sharpened my skills in aligning members with all experience levels toward a shared vision.
+User-Focused Technical Execution
+With an advisor at Standard Partners, I’m building the “Investor Goggles” web & AR glasses platform for investment insights and knowledge management. At first, this was a casual, open-ended project over winter break. Because I iterated rapidly and built a compelling MVP, we’re now looking at shipping a real product. I’m working directly with members of the Snap Spectacles team to refine the technical aspects, and I’ll soon consult with professional investors at the CSIMA conference to better understand their needs. 
+Additionally, as a SWE intern with AMLAH—a real estate tech startup— we use Jira and Confluence to manage our development process, further honing my agile workflow skills.
+Samsung-centered
+My lifelong engagement with the Android ecosystem— from my first Galaxy Tab S2 to five brands of Android phones and back to my current S23— gives me a unique perspective on the user experience that I can bring to bear on Samsung’s AI initiatives. Honestly, I hardly use Samsung’s AI tools— I actually use Perplexity’s mobile assistant right now. Like Siri, Bixby, and Google Assistant, it’s always felt like I’m fighting to make these tools understand what I want, even for basic tasks. However, the potential is blindingly clear to me, as I’ve been using and building with LLMs since GPT-3 dropped— now more than ever, as I’m building an investor assistant, astronaut assistant, and myriad other AI tools. I’d love to bring my vision to life at Samsung. Let’s make Galaxy Intelligence my universal tool so I can wipe five AI apps off my home screen! 
+I look forward to discussing how my technical background and product management experience can contribute to the success of Galaxy Intelligence.
+Thank you for your consideration.
+Best regards,
+Joshua Hegstad
+
+
+Dear Hiring Team,  
+
+I am specifically interested in SRA’s mobile tool development because it bridges my technical skills with Android, the main OS I’ve used for half of my life now. My first device was a Samsung Galaxy S2 tablet when I was 11. Then a string of cheap phones in middle school (ZTE, LG), then a OnePlus 6T, Google Pixel 3, Oneplus 9, and finally the Samsung Galaxy S23 that I use today. 
+
+I spent hours a day on that buggy S2 Tablet (no offense) and those cheap phones, messing with all the settings, making automations and customizations with apps like MacroDroid… My friend Hunter and I devoured every YouTube tech review, waiting for the next Android update and dreaming of having a ‘flagship’ one day. Looking back, those years instilled in me a deep intuition for UI/UX, which led me to fall in love with Computer Science when I finally learned to code. To build tools for Samsung would be a full-circle childhood dream come true.
+
+
+Needless to say, I’m eager to contribute to SRA's Android development initiatives, and my qualifications directly align with your requirements:  
+
+Technical Expertise  
+Full stack web development: Built React interfaces at AMLAH, several Flask + HTML/CSS web apps
+Mobile systems: Developed Snap Spectacles AR applications (“Investor Goggles,” “Don’t Fret!”) for Android-adjacent Snap OS 
+Backend foundations: Built C web server, several SQLAlchemy + REST API database applications
+Now designing AR/VR UIs for several projects (HoloLens 2, Meta Quest 3, Snap Spectacles 24)
+Program Management  
+Leading 20+ engineers on the NASA SUITS Challenge team in Agile development, delivering functional AR systems to be tested at Johnson Space Center  
+Managing an independent, open-ended project with Standard Partners, I am constantly learning new tools, evaluating the state of the product, and choosing the optimal next steps
+Completed 10+ self-led cybersecurity and automation projects over the summer at Hess
+Quick Adaptation  
+Picked up Snap’s Lens Studio/Typescript stack in a few weeks, now using it to create professional investor tools with Standard Partners
+Learned and implemented unfamiliar AWS + OpenTelemetry + LGTM stack within a week for AMLAH 
+Joined SUITS in Jan. 2024 and was elected Co-Lead in April for my rapid learning and consistency
+
+I think the environment at SRA fits my background, combining technical rigor with user-focused design, so I’d love to discuss how my skills fit in with your team!  
+
+Thank you for your consideration.  
+
+Best regards,  
+Joshua Hegstad  

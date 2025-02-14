@@ -1,20 +1,10 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
-  },
-  {
-    id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
-  },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Bachelor of Science in Computer Science, Minor in Statistics",
+    duration: "2023 - December 2026",
+    institution: "Columbia University, The Fu Foundation School of Engineering and Applied Science",
+    gpa: "GPA: 3.77, Department GPA: 4.0",
+    details: "Coursework: Advanced Programming, Intro to Databases, Data Structures, VR/AR, UI Design, 3D UI Design, Discrete Math, Multivariable Calculus, Linear Algebra, Probability & Statistics, Economics"
   }
 ]

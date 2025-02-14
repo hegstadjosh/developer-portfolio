@@ -1,0 +1,86 @@
+Joshua Hegstad
+
+70 Morningside Drive, New York, NY 10027
+j.hegstad@columbia.edu, Website
+
+EDUCATION
+
+Columbia University, The Fu Foundation School of Engineering and Applied Science                            		       New York, NY
+
+Bachelor of Science – Computer Science, Minor in Statistics, GPA: 3.77, Department GPA: 4.0	      		      December 2026
+Coursework: Advanced Programming, Intro to Databases, Data Structures, VR/AR, UI Design, 3D UI Design; 
+        Discrete Math, Multivariable Calculus, Linear Algebra, Probability & Statistics, Economics
+
+EXPERIENCE
+AMLAH | Real estate tech startup		    						    	                     New York, NY
+Full-stack SWE Intern								    		   January 2025 – May 2025
+Agile development with a small team of engineers: AWS, React, misc. web dev. 
+
+Standard Partners Fund LP  									 	      New York, NY
+Software Engineer Intern										    December 2024 – Present
+Independently built ‘Investor Goggles’— a web + AR glasses platform for insight generation and knowledge management 
+Web: HTML5, CSS3, Javascript; Flask, SQLAlchemy, Neo4j. AR Glasses: Snap Spectacles 24, Typescript.
+
+Hess Corporation	              Minot, ND
+Cybersecurity and Field Automation Intern                                                                                                               May 2024 – August 2024
+
+Combined hundreds of overlapping policies/recommendations into a unified PowerBI dashboard 
+Hand-built a training board for field automation workers; conducted on-site network/device assessments
+Built a Javascript MS Copilot API to adhere to data security policies while using LLMs
+Developed an Excel x Python tool to automate textual analysis over hundreds of rows
+=-0-=-0-
+LEADERSHIP
+NASA SUITS Challenge – Columbia Space Initiative	| C#, TypeScript				                      	      New York, NY
+Co-Lead												    August 2024 – May 2025
+Building astronaut guidance systems for the HoloLens 2 and Snap Spectacles augmented reality headsets
+Organized meetings, scrum sprints, and communication using Notion, Slack, Discord, GitHub
+Recruited and retained 20+ students— more than twice as many as last year
+Orchestrated and wrote our 2025 NASA SUITS proposal and New York Space Grant application (both accepted!)
+Developer											   January 2024 – May 2024
+Developed Unity C# scripts for our HoloLens 2 AR astronaut guidance system (successfully tested at the Johnson Space Center)
+
+PROJECTS
+Math Modeling Workshop | R, Pandas	– Learning Python & R tools for data analysis & visualization
+
+Guitar Trainer		 | Python		– Guitar chord & scale manipulation program 
+Jazz Guitar App 		 | SQL, Flask	– (Intro Databases) Jazz guitar song & chord database/web app
+Don’t Fret!		 | Typescript, JS	– (VR/AR course) Augmented reality guitar training app for Snap Spectacles 
+C Web Server		 | C		– (Adv. Programming) Implemented a web server from scratch
+	
+Cover Letter Generator	 | Python, React	– Multi-agent LLM cover letter generator using personal documents 
+Cornell Hackathon	 | Python, JS	– LLM note management extension/web app		
+Columbia Hackathon 	 | Python, Figma	– Journal-based podcast recommendations using LLMs & Spotify API					   
+SKILLS
+
+Languages: Python, R, Java, C, C#, SQL, Typescript, JavaScript, HTML/CSS, React
+
+Tools/Skills: Unity, Lens Studio, AWS, MS Office, PowerBI, Figma, Agile dev., data visualization
+   
+ACTIVITIES
+
+Columbia Undergraduate Scholars Program                                                                                                              September 2023 – Present
+C.P. Davis Scholar (Top engineering admits)
+Poker, Climbing, Effective Altruism clubs                	      	
+
+
+Application job descriptions: 
+Software Engineer Intern, AMLAH
+•
+New York, NY, USA
+
+Jan 2025 - Present
+Agile development with a small team of engineers: AWS, React, and misc. web dev. as needed
+
+Software Engineer, SPMH Fund
+•
+New York, NY, USA
+
+Dec 2024 - Present
+This is a self-guided project integrating LLM knowledge management with the Snap Spectacles 24 AR glasses. I've set up a web server and frontend (served through Flask) as the knowledge management center, which connects to a multi-faceted information capture/saving/retrieval app on the Spectacles.
+
+Cybersecurity and Field Automation Intern, Hess Corporation
+•
+Minot, ND, USA
+
+May 2024 - Aug 2024
+As a Cybersecurity and Field Automation Intern at Hess Corporation, I unified hundreds of overlapping policies into a single MS Office dashboard, created and implemented a training board based on on-site network and device assessments, developed a JavaScript-based MS Copilot API to enforce data security when using LLMs, built an Excel-Python tool to automate large-scale textual analysis, and proposed a self-populating knowledge graph to centralize company information.
