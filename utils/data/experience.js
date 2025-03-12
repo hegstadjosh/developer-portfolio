@@ -1,14 +1,14 @@
 export const experiences = [
   {
     id: 1,
-    title: "Full-stack SWE Intern",
-    company: "AMLAH",
+    title: "Software Engineer Intern",
+    company: "AMLAH - Columbia Build Lab",
     duration: "January 2025 - May 2025",
-    description: "Agile development with a small team of engineers: AWS, React, misc. web dev."
+    description: "Agile development with a small team of engineers using AWS, React, and miscellaneous web dev tools."
   },
   {
     id: 2,
-    title: "Software Engineer Intern",
+    title: "Software Engineer",
     company: "Standard Partners Fund LP",
     duration: "December 2024 - Present",
     description: "Independently built 'Investor Goggles'— a web + AR glasses platform for insight generation and knowledge management. Web: HTML5, CSS3, Javascript; Flask, SQLAlchemy, Neo4j. AR Glasses: Snap Spectacles 24, Typescript."
